@@ -95,12 +95,6 @@ function preload() {
 
   Player2_crouch_still = loadAnimation("Images/Player2/Crouch/2.png");
 
-  // Button images
-  UImg = loadImage("Images/BTN/Up.png");
-  RImg = loadImage("Images/BTN/Right.png");
-  DImg = loadImage("Images/BTN/Down.png");
-  LImg = loadImage("Images/BTN/Left.png");
-
 }
 
 function setup() {
